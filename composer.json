@@ -1,5 +1,5 @@
 {
-    "name":"DFUtils/Parser",
+    "name":"dfutils/parser",
     "description":"User agent parsing package",
     "license": "MIT",
     "require":{
